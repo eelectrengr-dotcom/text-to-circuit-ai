@@ -1,0 +1,5 @@
+streamlit
+schemdraw
+matplotlib
+numpy
+pandas
